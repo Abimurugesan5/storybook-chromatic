@@ -68,3 +68,5 @@ export const Page = () => {
     </article>
   );
 };
+
+    //  "chromatic": "npx chromatic --project-token=ddd45ce25e8e"
