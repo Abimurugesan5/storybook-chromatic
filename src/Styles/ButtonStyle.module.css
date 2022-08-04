@@ -1,0 +1,41 @@
+.contentHeaderBtn{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 9px 16px;
+    gap: 8px;
+    /* position: absolute; */
+    width: 157px;
+    height: 40px;
+    left: 1099px;
+    top: 84px;
+    background: #0D3F4B;
+    border: 1px solid #0D3F4B;
+    box-shadow: 0px 1px 0px rgb(0 0 0 / 4%);
+    border-radius: 2px;
+    color: white;
+}
+.dragDiv{
+    height: 400px !important;
+    margin: 0 auto;
+    padding: 30px;
+    width: 600px;
+}
+.BoxOutline{
+    /* box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 8px;
+    gap: 10px;
+    /* position: absolute; */
+    /* width: 680px;
+    height: 174px;
+    left: 400px;
+    top: 311px;
+    background: #FFFFFF;
+    border: 1px dashed #D9D9D9;
+    border-radius: 2px; */ 
+}
