@@ -1,7 +1,7 @@
 info @storybook/react v6.5.9
 info 
-info => Cleaning outputDir: /tmp/chromatic--8478-GgpVZXBoK4U6
-(node:8565) DeprecationWarning: --static-dir CLI flag is deprecated, see:
+info => Cleaning outputDir: /tmp/chromatic--10524-zjya9JOqYJm2
+(node:10612) DeprecationWarning: --static-dir CLI flag is deprecated, see:
 
 https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated---static-dir-cli-flag
 (Use `node --trace-deprecation ...` to show where the warning was created)
@@ -137,9 +137,9 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/mdx1-csf/loader.js
 <s> [webpack.Progress] 10% building 0/14 entries 32/61 dependencies 0/29 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
-<s> [webpack.Progress] 10% building 0/14 entries 47/65 dependencies 1/44 modules
+<s> [webpack.Progress] 10% building 0/14 entries 42/65 dependencies 1/39 modules
 <s> [webpack.Progress] 13% building 1/14 entries 133/195 dependencies 6/88 modules
-<s> [webpack.Progress] 17% building 2/14 entries 160/412 dependencies 12/100 modules
+<s> [webpack.Progress] 17% building 2/14 entries 159/430 dependencies 13/99 modules
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 100% 
@@ -150,19 +150,19 @@ ERR! Module not found: Error: Can't resolve '../components/IDFileUpload' in '/ho
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-<s> [webpack.Progress] 21% building 3/14 entries 315/412 dependencies 15/100 modules
-<s> [webpack.Progress] 25% building 4/14 entries 315/412 dependencies 16/100 modules
-<s> [webpack.Progress] 29% building 5/14 entries 315/412 dependencies 17/100 modules
-<s> [webpack.Progress] 33% building 6/14 entries 315/412 dependencies 18/100 modules
-<s> [webpack.Progress] 37% building 7/14 entries 315/412 dependencies 19/100 modules
-<s> [webpack.Progress] 41% building 8/14 entries 315/412 dependencies 20/100 modules
-<s> [webpack.Progress] 45% building 9/14 entries 315/412 dependencies 21/100 modules
-<s> [webpack.Progress] 49% building 10/14 entries 315/412 dependencies 22/100 modules
-<s> [webpack.Progress] 52% building 11/14 entries 315/412 dependencies 23/100 modules
-<s> [webpack.Progress] 52% building 12/14 entries 315/412 dependencies 24/100 modules
-<s> [webpack.Progress] 52% building 13/14 entries 315/412 dependencies 25/100 modules
-<s> [webpack.Progress] 52% building 14/14 entries 315/412 dependencies 70/100 modules
-info => Manager built (14 s)
+<s> [webpack.Progress] 21% building 3/14 entries 334/430 dependencies 17/99 modules
+<s> [webpack.Progress] 25% building 4/14 entries 334/430 dependencies 23/99 modules
+<s> [webpack.Progress] 29% building 5/14 entries 334/430 dependencies 24/99 modules
+<s> [webpack.Progress] 33% building 6/14 entries 334/430 dependencies 25/99 modules
+<s> [webpack.Progress] 37% building 7/14 entries 334/430 dependencies 26/99 modules
+<s> [webpack.Progress] 41% building 8/14 entries 334/430 dependencies 27/99 modules
+<s> [webpack.Progress] 45% building 9/14 entries 334/430 dependencies 28/99 modules
+<s> [webpack.Progress] 49% building 10/14 entries 334/430 dependencies 29/99 modules
+<s> [webpack.Progress] 52% building 11/14 entries 334/430 dependencies 30/99 modules
+<s> [webpack.Progress] 52% building 12/14 entries 334/430 dependencies 31/99 modules
+<s> [webpack.Progress] 52% building 13/14 entries 334/430 dependencies 34/99 modules
+<s> [webpack.Progress] 52% building 14/14 entries 334/430 dependencies 70/99 modules
+info => Manager built (13 s)
 ERR! ModuleNotFoundError: Module not found: Error: Can't resolve '../components/IDFileUpload' in '/home/abi/workspace/visual-testing/visualtesting/src/stories'
 ERR!     at /home/abi/workspace/visual-testing/visualtesting/node_modules/webpack/lib/Compilation.js:2016:28
 ERR!     at /home/abi/workspace/visual-testing/visualtesting/node_modules/webpack/lib/NormalModuleFactory.js:798:13
