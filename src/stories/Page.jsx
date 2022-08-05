@@ -51,6 +51,8 @@ export const Page = () => {
           .
         </p>
         <div className="tip-wrapper">
+        <span className="tip">Tip</span> Adjust the width of the canvas with the{' '}
+
           <span className="tip">Tip</span> Adjust the width of the canvas with the{' '}
           <svg width="10" height="10" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
             <g fill="none" fillRule="evenodd">
